@@ -1,0 +1,8 @@
+D:\C#\POVPatternGenerater\POVPatternGenerater\bin\Debug\POVPatternGenerater.exe.config
+D:\C#\POVPatternGenerater\POVPatternGenerater\bin\Debug\POVPatternGenerater.exe
+D:\C#\POVPatternGenerater\POVPatternGenerater\bin\Debug\POVPatternGenerater.pdb
+D:\C#\POVPatternGenerater\POVPatternGenerater\obj\Debug\POVPatternGenerater.Form1.resources
+D:\C#\POVPatternGenerater\POVPatternGenerater\obj\Debug\POVPatternGenerater.Properties.Resources.resources
+D:\C#\POVPatternGenerater\POVPatternGenerater\obj\Debug\POVPatternGenerater.csproj.GenerateResource.Cache
+D:\C#\POVPatternGenerater\POVPatternGenerater\obj\Debug\POVPatternGenerater.exe
+D:\C#\POVPatternGenerater\POVPatternGenerater\obj\Debug\POVPatternGenerater.pdb
